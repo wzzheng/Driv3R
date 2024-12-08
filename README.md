@@ -17,7 +17,7 @@ For real-time 4D reconstruction in autonomous driving, existing DUSt3R-based met
 
 ## Demo
 <div style="text-align: center;">
-  <img src="./assets/demo.gif" width="80%" />
+  <img src="./assets/demo.gif" width="100%" />
 </div>
 
 ## Visualization
