@@ -53,7 +53,7 @@ python preprocess/nuscenes.py
 ```
 **Note:** If you wish to apply our model to other AD datasets, please add them under ./driv3r/datasets. We are currently in the process of integrating the Waymo, KITTI, and DDAD datasets into our codebase and will update it as soon as the integration is complete.
 
-2. **For training only:** To train the Driv3R model, you will need the inference results from the ![R3D3](https://github.com/SysCV/r3d3) model as supervision. Since the virtual environment of R3D3 is not compatible with CUDA 12.1, we strongly recommend completing this step in advance. After obtaining the depth predictions, please modify the *depth_root* parameter in *script/train.sh*.
+2. **For training only:** To train the Driv3R model, you will need the inference results from the [R3D3](https://github.com/SysCV/r3d3) model as supervision. Since the virtual environment of R3D3 is not compatible with CUDA 12.1, we strongly recommend completing this step in advance. After obtaining the depth predictions, please modify the *depth_root* parameter in *script/train.sh*.
 
 ### Checkpoint Download
 
