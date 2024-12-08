@@ -16,7 +16,7 @@ For real-time 4D reconstruction in autonomous driving, existing DUSt3R-based met
 - **[2024/12/9]** Paper released on [arXiv]().
 
 ## Demo
-![demo](./assets/demo.mp4)
+![demo](./assets/demo.gif)
 
 ## Visualization
 ![visualization](./assets/depth_vis.png)
