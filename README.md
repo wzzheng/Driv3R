@@ -1,5 +1,7 @@
 # Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving
 
+Check out our [Large Driving Model](https://github.com/wzzheng/LDM/) Series!
+
 ### [Paper]() | [Project Page](https://wzzheng.net/Driv3R)
 
 > [Xin Fei](https://github.com/Barrybarry-Smith)*, [Wenzhao Zheng](https://wzzheng.net/)$\dagger$, [Yueqi Duan](https://duanyueqi.github.io/), [Wei Zhan](https://zhanwei.site/), [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/), [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/)
